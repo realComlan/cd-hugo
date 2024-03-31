@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hugo-universal-theme-1.4"
+theme = "hugo-creative-portfolio-theme"
+#theme = "hugo-universal-theme-1.4"
 #theme = 'blox'

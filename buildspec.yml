@@ -4,7 +4,7 @@ environment_variables:
   plaintext:
     HUGO_VERSION: "0.124.1" 
     
-phases:
+phases: 
   install:
     commands:                                                                
       - cd /tmp 
